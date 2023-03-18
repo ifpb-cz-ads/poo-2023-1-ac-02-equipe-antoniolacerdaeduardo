@@ -17,11 +17,13 @@
 <h3>Q3 - Crie um programa Java que imprima o seguinte texto "Terminei a primeira aula com um programa Java!"</h3>
 <p>
 R:
+<code>
 public class PrimeiroPrograma {
     public static void main(String[] args) {
         System.out.print("Terminei a primeira aula com um programa Java!");
     }
 }
+</code>
 </p>
  
 <h3>Q4 - Compile um programa desenvolvido no exercício anterior. A seguir apague o arquivo .class gerado e tente executar o programa. O que aconteceu?</h3>
