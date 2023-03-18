@@ -17,15 +17,13 @@
 <h3>Q3 - Crie um programa Java que imprima o seguinte texto "Terminei a primeira aula com um programa Java!"</h3>
 <p>
 R:
-</p>
-<code> 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
         System.out.print("Terminei a primeira aula com um programa Java!");
     }
 }
-</code>
-
+</p>
+ 
 <h3>Q4 - Compile um programa desenvolvido no exercício anterior. A seguir apague o arquivo .class gerado e tente executar o programa. O que aconteceu?</h3>
 <p>R: Após compilar o programa e apagar o arquivo .class, ao tentar executar o programa, foi exibido no terminal um erro informando que não foi possível encontrar ou carregar a classe principal do arquivo java indicado. A mensagem específica foi: "Could not find or load main class PrimeiroPrograma"</p>
 
