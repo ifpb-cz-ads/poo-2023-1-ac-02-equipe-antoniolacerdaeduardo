@@ -24,17 +24,7 @@
 <p>R: Ao substituir o método main pelo método start, o arquivo compilou normalmente, criando um arquivo PrimeiroPrograma.class, contudo, quando executado, o terminal exibiu uma mensagem de erro informando que, o método main não foi encontrado dentro da classe PrimeiroPrograma e indicou que a mesma fosse definida. O terminal deu uma segunda opção que é de utilizar uma extensão. A mensagem original foi: "Main method not found in class PrimeiroPrograma, please define the main method as: public static void main(String[] args) or a JavaFX application class must extend javafx.application.Application".</p>
 
 <h3>Q6 - Crie um programa Java para imprimir duas linhas de texto usando duas linhas de código "System.out", onde aparecerá o seu nome na primeira linha e na segunda linha aparecerá o time para o qual você torce.</h3>
-<p>R:
-<code>
-public class SegundoPrograma {
-    public static void main(String[] args) {
-        System.out.println("Antonio Lacerda");
-        System.out.println("Flamengo");
-        System.out.println("Eduardo Denis");
-        System.out.println("Corinthians");
-    }
-}
-</code>
+<p>R:<a href="https://github.com/ifpb-cz-ads/poo-2023-1-ac-02-equipe-antoniolacerdaeduardo/tree/main/Quest%C3%A3o%2006_07_08">link do repositório</a>
 </p>
 
 <h3>Q7 - Experimente escrever todo o programa anterior em maiúsculo, compile e execute. O que aconteceu?</h3>
